@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any project based on python/java/c
-- 📫 How to reach me through mail me : harshithayadav172004@gmail.com
+- 📫 How to reach me---> mail me : harshithayadav172004@gmail.com
 
 <!---
 HarshithaGangadharan/HarshithaGangadharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
